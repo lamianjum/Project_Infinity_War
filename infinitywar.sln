@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
@@ -20,3 +21,27 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "infinitywar", "infinitywar\infinitywar.vcxproj", "{98A502B3-B9AC-4FDF-B820-34E83AD0720C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A502B3-B9AC-4FDF-B820-34E83AD0720C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{98A502B3-B9AC-4FDF-B820-34E83AD0720C}.Debug|Win32.Build.0 = Debug|Win32
+		{98A502B3-B9AC-4FDF-B820-34E83AD0720C}.Release|Win32.ActiveCfg = Release|Win32
+		{98A502B3-B9AC-4FDF-B820-34E83AD0720C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> 53dffe71bcebdee0b34394fff4f3b833a422f1ee
