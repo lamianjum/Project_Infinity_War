@@ -1,0 +1,15 @@
+﻿Build started 1/30/2018 2:25:49 PM.
+     1>Project "C:\Users\maksi\Documents\Visual Studio 2010\Projects\kk\kk\kk.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\kk.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>c:\users\maksi\documents\visual studio 2010\projects\kk\kk\menu.h(73): error C2065: 'musicOn' : undeclared identifier
+     1>c:\users\maksi\documents\visual studio 2010\projects\kk\kk\menu.h(75): error C2065: 'musicOn' : undeclared identifier
+     1>c:\users\maksi\documents\visual studio 2010\projects\kk\kk\menu.h(80): error C2065: 'musicOn' : undeclared identifier
+     1>Done Building Project "C:\Users\maksi\Documents\Visual Studio 2010\Projects\kk\kk\kk.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.17

@@ -1,0 +1,4 @@
+﻿  iMain.cpp
+glaux.lib(tk.obj) : error LNK2019: unresolved external symbol _sscanf referenced in function _GetRegistrySysColors@8
+glaux.lib(tk.obj) : error LNK2019: unresolved external symbol _vsprintf referenced in function _PrintMessage
+D:\Downloads\infinity warrrrrrrrrrr-20210910T062616Z-001\infinity warrrrrrrrrrr\Debug\infinitywar.exe : fatal error LNK1120: 2 unresolved externals
